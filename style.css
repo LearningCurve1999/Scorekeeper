@@ -1,0 +1,20 @@
+.winner {
+    color: green;
+}
+
+.loser {
+    color: red;
+}
+
+.container {
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    width: 100%;
+}
+
+body {
+    background: rgb(19, 17, 17);
+}
